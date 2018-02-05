@@ -1,0 +1,7 @@
+air_visit_data.csv, air_store_info.csv, air_reserve.csv, hpg_reserve.csv, 
+
+date_info.csv, store_id_relation.csv, and sample_submission.csv come from link below:
+
+
+
+https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data
